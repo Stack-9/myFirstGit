@@ -12,11 +12,11 @@ html {
 body {
     text-align: center;
     vertical-align: middle;
-    display: table-cell;
+   display: table-cell;
 }
-
+ 
 h1 {
-    color: navy;
+     color: navy;
     font-family: 'MuseoModerno';
     text-shadow: 4px 4px 4px #aaa;
     text-align: center;
